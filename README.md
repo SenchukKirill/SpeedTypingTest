@@ -8,4 +8,4 @@ ____
 ### Example
 
 [Example](https://www.typingtest.com/)
-[Example_pic]("")
+[Example_pic]("https://github.com/SenchukKirill/SpeedTypingTest/blob/main/pic/Screenshot_1.png")
