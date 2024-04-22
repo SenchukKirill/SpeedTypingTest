@@ -8,3 +8,4 @@ ____
 ### Example
 
 [Example](https://www.typingtest.com/)
+[Example_pic]("")
