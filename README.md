@@ -8,4 +8,5 @@ ____
 ### Example
 
 [Example](https://www.typingtest.com/)
-![pic](https://github.com/SenchukKirill/SpeedTypingTest/tree/main/pic/Screenshot_1.png)
+___
+![pic](Screenshot_1.png)
