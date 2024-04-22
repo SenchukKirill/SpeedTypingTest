@@ -9,4 +9,4 @@ ____
 
 [Example](https://www.typingtest.com/)
 ___
-![pic](Screenshot_1.png)
+![pic](S_1.png)
